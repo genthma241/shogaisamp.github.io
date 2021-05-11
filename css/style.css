@@ -1,7 +1,15 @@
 @charset "UTF-8";
 
 #banner{
-  position: relative;}
+  position: fixed;
+  z-index: 999;
+  bottom: 5px;
+  width: 100%;
+  }
+
+.omake p{
+  margin-bottom: 200px;}
+
 
 @media(min-width: 768px){
 #banner1, #banner2, #banner3{

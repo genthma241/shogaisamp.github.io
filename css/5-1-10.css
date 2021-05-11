@@ -2,11 +2,6 @@
 
 /*ナビゲーションの固定*/
 
-#banner{
-    /*stickyで固定*/
-    position: -webkit-sticky;/*Safari*/
-	position: sticky;
-	}
 
 #banner3{
 vertical-align: bottom:
