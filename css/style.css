@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+#banner{
+  position: relative;}
+
+@media(min-width: 768px){
+#banner1, #banner2, #banner3{
+  float: left;
+  width: 49%;
+  padding-right: 5px;
+  padding-bottom: 5px;}
+  }
+  
+@media(max-width: 767px){
+#banner1, #banner2, #banner3{
+  float: left;
+  width: 100%;
+  padding-bottom: 5px;}
+  }
